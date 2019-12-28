@@ -161,6 +161,8 @@ A curated list for the most common abbreviations in code.
 
 * radian
 1. rad
+* reference
+1. ref
 * request
 1. req
 * response
