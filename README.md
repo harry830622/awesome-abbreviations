@@ -70,7 +70,7 @@ A curated list for the most common abbreviations in code.
 * equal
 1. eq
 * error
-* err
+1. err
 
 ## F
 
@@ -114,7 +114,7 @@ A curated list for the most common abbreviations in code.
 * maximum
 1. max
 * message
-1 msg
+1. msg
 * minimum
 1. min
 * miscellaneous
